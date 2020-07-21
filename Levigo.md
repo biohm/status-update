@@ -1,4 +1,4 @@
-# status-update
+# Status-update
 ## Week 2
 This past week, we held several team meeting with the team lead, Nevon Song and other students that will be contributing to the Levigo project from other institutions. We developed a slack channel where we can stay in contact and share documents. It has proven to be a useful tool for sharing important information and coordinating our meetings. This week we coordinated different research topics and generalized each of our contributions for the rest of the semester. This week, Iconducted research on a CI/CD pipeline that could help us develop a bug free code for Levigo. Developing a CI/CD pipeline could help us automate many of the steps in the software delivery. I also did research on tools for testing app development. Since Levigo will be in early development, we expect many bugs initially. To help mitigated this issue we hope to use tools for app testing to easily identify these bugs. Lastly, we held an android studio introduction to help us all become more familiar with it. 
 
